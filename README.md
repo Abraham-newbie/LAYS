@@ -18,8 +18,7 @@ This repository contains the submission for the following task:
 ```
 ## [1-2 Pager](https://github.com/Abraham-newbie/oxford_submission/blob/main/RA_Oxford_Submission.pdf)
 
-The submission is titled **RA_Oxford_Submission**. I briefly study the African context using learning-adjusted years of schooling as a key metric in evaluating between-country differences and 
-in comparison to other regions. I also summarize common threads in previous literature as well as challenges and solutions for improving learning in Africa. The appendix contains additional plots and visualizations.
+A write-up on 'The State of Schooling in Africa: A LAYS Perspective', where I use multiple World Bank datasets, including data from Harmonized Learning Outcomes (HLO) Database and the Human Capital Project to review the state of schooling in Africa.
 
 
 
